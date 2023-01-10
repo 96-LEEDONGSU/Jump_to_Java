@@ -2,7 +2,6 @@ package ex;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class ex_06 {
     public static void main(String[] args) throws IOException {
